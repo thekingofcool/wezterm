@@ -40,6 +40,8 @@ return {
    switch_to_last_active_tab_when_closing_tab = true,
 
    -- window
+   initial_cols = 95,
+   initial_rows = 60,
    window_padding = {
       left = 0,
       right = 0,
